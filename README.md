@@ -512,7 +512,3 @@ PHP_Laravel12_Approval/
 ---
 
 Your PHP_Laravel12_Approval Project is now ready!
-<<<<<<< HEAD
-
-=======
->>>>>>> development
